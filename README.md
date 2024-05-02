@@ -27,4 +27,4 @@ Infested variants now have **spotted markings**
 ## Note Block
 **Pitch**, **number of clicks**, and **instrument** are now displayed
 
-![](https://cdn.modrinth.com/data/cached_images/e2a89150db81ea9d85150572fafcb9eeb2b4158f.png)
+![](https://cdn.modrinth.com/data/cached_images/8f71c8cf38b2b83bc184b50d222885e86db305a9.png)
